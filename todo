@@ -1,0 +1,3 @@
+- Give an option to specify the un/marshaller to use
+- Make separate methods taking/giving raw values vs the aforementioned
+- Allow giving a struct that can be used to pull objects out of the DB

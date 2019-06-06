@@ -1,3 +1,3 @@
-module github.com/scottshotgg/inmem-test
+module github.com/scottshotgg/memdb
 
 go 1.12
